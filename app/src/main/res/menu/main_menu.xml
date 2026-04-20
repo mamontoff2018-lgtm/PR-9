@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_red"
+        android:title="Красный фон" />
+
+    <item
+        android:id="@+id/action_green"
+        android:title="Зелёный фон" />
+
+    <item
+        android:id="@+id/action_blue"
+        android:title="Синий фон" />
+
+    <item
+        android:id="@+id/action_reset"
+        android:title="Сбросить фон" />
+
+</menu>
